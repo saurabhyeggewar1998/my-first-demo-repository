@@ -1,0 +1,8 @@
+1)id of java:
+ans=ps -elf | grep java | grep -v grep | awk '{print $2}'
+2) static;
+ans= a member of a class that isn't associated with an instance of a class
+3 function;
+ans ; same peice of code can be run..group of commasnds that are assigned a name that act like handle to that group of commands
+4)Array;
+AN Array Is a Systematic arrangments of the same type of data.index start with zero
